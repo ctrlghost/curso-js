@@ -1,0 +1,3 @@
+function exemploCarro(){
+    let placa
+}
