@@ -1,3 +1,0 @@
-function exemploCarro(){
-    let placa
-}
